@@ -178,4 +178,4 @@ This repository serves as the official landing page for EvexiCLI. The software i
 **Get the most recent version of EvexiCLI today!**
 
 ---
-**Last updated:** 2026-11-13 12:48:46 UTC
+**Last updated:** 2026-11-13 20:15:41 UTC
